@@ -37,7 +37,7 @@ Here are some of my projects. I keep updating this as I build new things:
 ### 📫 Connect with Me  
 Feel free to reach out!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulllahi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?style=for-the-badge&logo=twitter)](https://x.com/JameelYaaqub090))  
+[![Twitter](https://img.shields.io/badge/Twitter-AJYaaqub-blue?style=for-the-badge&logo=twitter)](https://x.com/JameelYaaqub090) 
 [![GitHub](https://img.shields.io/badge/GitHub-Abdulllahi-black?style=for-the-badge&logo=github)](https://github.com/AJYaaqoub)
 
 ---
